@@ -31,7 +31,7 @@ Building upon this analysis, I implemented a neural network using **TensorFlow**
 
 ## Installation
     
-    git clone https://github.com/your-username/Load-Forecasting-ML-Project.git
+    git clone https://github.com/abhinabgogoi/loadforecast_wth_weather.git
     cd Load-Forecasting-ML-Project 
 
 ### Install dependencies: Ensure you have Python 3.8+ installed. Then, install the required packages:
