@@ -42,9 +42,9 @@ Building upon this analysis, I implemented a neural network using **TensorFlow**
 
 To run the model and see load forecasting results:
 
-1. Prepare the Data: Place your meteorological and load data in the data/ folder.
-2. Run the Notebook: Open my_notebook.ipynb in Jupyter Notebook to explore the data and train the model.
-3. Visualize Results: Generated plots in results/ showcase trends, prediction accuracy, and insights.
+1. Prepare the Data: Place the meteorological and load data in the same folder.
+2. Run the Notebook: Open the notebook in Jupyter Notebook to explore the data and train the model.
+3. Visualize Results: Generated plots, showcase trends, prediction accuracy, and insights.
 
 ## Model Details:
 
