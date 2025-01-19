@@ -41,6 +41,7 @@ Building upon this analysis, I implemented a neural network using **TensorFlow**
 ## Usage
 
 To run the model and see load forecasting results:
+![Dataset](https://github.com/user-attachments/assets/7b81a3d1-af7f-48a8-b55e-1d017d76c25a)
 
 1. Prepare the Data: Place the meteorological and load data in the same folder.
 2. Run the Notebook: Open the notebook in Jupyter Notebook to explore the data and train the model.
@@ -55,6 +56,8 @@ The network consists of three hidden layers, each containing **225 neurons**. Th
 The model is compiled using the **Adam optimizer** with a learning rate of 0.001, and the loss function employed is Mean Squared Error (MSE), which measures the average squared difference between predicted and actual values. Through training on the dataset, this neural network model achieved a prediction accuracy of approximately 89%. This performance demonstrates the effectiveness of using a deep learning approach for load forecasting and highlights the model's capability to learn from historical patterns in the data.
 
 ## Results:
+![output](https://github.com/user-attachments/assets/37fac92e-ab27-478b-97d8-478e591804f6)
+
   The developed neural network model provides a reliable forecast of electrical load demand with an accuracy of approximately 89%. This level of accuracy is significant for several reasons. First, it aids in optimizing power distribution by enabling utility companies to allocate resources more efficiently based on predicted demand. By having a clear understanding of expected load patterns, utilities can reduce the risk of overloading their systems and ensure that electricity is delivered where it is needed most.
 
 Additionally, accurate load forecasting contributes to reducing operational costs for utility companies. With precise predictions, utilities can minimize wasteful practices, such as over-generation or under-utilization of resources, leading to more economical operations. Furthermore, the model supports grid stability by aligning supply with demand patterns, which is essential in preventing blackouts and maintaining the reliability of the power supply.
